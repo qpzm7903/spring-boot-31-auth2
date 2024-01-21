@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/spring-oauth2-server/mvnw
+/spring-oauth2-server/mvnw.cmd
